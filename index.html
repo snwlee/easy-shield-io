@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Shield.io-Helper</title>
+      <link rel="stylesheet" href="/style.css" />
+   </head>
+   <body>
+      <div class="main">
+         <h1>🖼 Easy Shield IO</h1>
+         <div class="logo-img-border">
+            <a href="" onclick="openLink()">
+               <img
+                  class="logo-img"
+                  src="https://img.shields.io/badge/React-black.svg?&style=for-the-badge&logo=React&logoColor=skyblue"
+               />
+            </a>
+         </div>
+
+         <div class="input-text-box">
+            <input
+               id="logo-name"
+               class="input-text"
+               type="text"
+               placeholder="로고 이미지 이름을 입력하세요 (영문)"
+               spellcheck="false"
+               required
+            />
+            <input
+               id="bg-color"
+               class="input-text"
+               type="text"
+               placeholder="배경 색상 코드를 입력하세요 (CSS)"
+               spellcheck="false"
+               required
+            />
+            <input
+               id="logo-color"
+               class="input-text"
+               type="text"
+               placeholder="로고 이미지 색상을 입력하세요 (CSS)"
+               spellcheck="false"
+               required
+            />
+         </div>
+         <div class="btn-box">
+            <button class="btn-copy" onclick="logoPreview()">만들기</button>
+            <button class="btn-copy" onclick="openLink()">
+               새 창에서 보기
+            </button>
+         </div>
+         <div class="link">
+            <a href="https://shields.io/" target="_blank">shields.io</a>
+         </div>
+      </div>
+      <script src="/app.js"></script>
+   </body>
+</html>
