@@ -28,12 +28,13 @@ body {
    height: auto;
    display: block;
 }
-.logo-img {
+#main-logo-img {
    width: 750px;
    margin-top: 50px;
    display: block;
    margin: 10px auto;
 }
+
 .input-text-box {
    margin-top: 30px;
    margin-bottom: 10px;
