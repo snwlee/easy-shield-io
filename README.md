@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+# Easy Shield IO - Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![](https://velog.velcdn.com/images/iseon_u/post/c4481d13-866e-44e1-99aa-4ebd9bb6d40d/image.gif)
 
-## Available Scripts
+## 개요 📋
 
-In the project directory, you can run:
+> 프로젝트명 : 간편한 쉴드 IO
 
-### `npm start`
+> 기획 및 제작 : PGRRR
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+> 주요 기능 : 직관적이고 간편한 Shield IO 사이트 사용
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+> 타겟 유저 : [Shields.io](http://Shields.io) 사이트 방문 후 How to use Shields.io 를 구글링 한 유저
 
-### `npm test`
+> 사용 툴 : HTML, CSS, JavaScript, React
+> 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 제작하게 된 계기
 
-### `npm run build`
+Github [readme.md](http://readme.md/) profile을 작성하면서 발견하게 된 [shield.io](http://shield.io/)라는 사이트가 생각보다 직관적이지 못하고 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+그로 인해 사용 방법을 다시 구글링 하는 불상사가 나오지 않을까라는 생각이 들었다.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+하루 종일 학원에서 Java 이론만 주야장천 공부하다 보니 코딩에 흥미를 잃을까 봐 복습은 잠시 접어두고
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+눈에 보이는 HTML, CSS, JS 독학해서 쉬는 시간에 만들어봤다.
 
-### `npm run eject`
+React는 useStage으로 값 변경하는 것이 스타일 버튼 제작할 때쯤에 필요성이 느껴져서 넣어봤다.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+HTML, JS로 짰던걸 다시 React 문법으로 하는 것이 귀찮은 것을 보니 그냥 처음부터 React로 짜는 게 나을 것 같다는 느낌이 들었다.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Version
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+> 0.1.0
+> 
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![](https://velog.velcdn.com/images/iseon_u/post/9fb9440b-c2f8-4439-8c5e-b197e8752cdb/image.gif)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![](https://velog.velcdn.com/images/iseon_u/post/afec7296-b54f-478f-ba5f-63e816ea1535/image.gif)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+> 0.2.0
+> 
+- 스타일 변경 추가
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![](https://velog.velcdn.com/images/iseon_u/post/08f033a4-ab4e-4d2a-934f-1e47dbc99e58/image.gif)
