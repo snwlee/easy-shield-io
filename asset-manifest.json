@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/easy-shield-io/static/css/main.a6ebfa0c.css",
+    "main.js": "/easy-shield-io/static/js/main.e89e5418.js",
+    "static/js/787.4807f99c.chunk.js": "/easy-shield-io/static/js/787.4807f99c.chunk.js",
+    "index.html": "/easy-shield-io/index.html",
+    "main.a6ebfa0c.css.map": "/easy-shield-io/static/css/main.a6ebfa0c.css.map",
+    "main.e89e5418.js.map": "/easy-shield-io/static/js/main.e89e5418.js.map",
+    "787.4807f99c.chunk.js.map": "/easy-shield-io/static/js/787.4807f99c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6ebfa0c.css",
+    "static/js/main.e89e5418.js"
+  ]
+}
